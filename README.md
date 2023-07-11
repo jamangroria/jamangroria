@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+        <img src="https://www.linkpicture.com/q/pinecone.png">
     </td>
  
 </tr>
