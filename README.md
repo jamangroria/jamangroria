@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 <p align="center">
 	
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+Sayalani+Mass+IT+Institute; Bahadurbad+Branch+Karachi&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
- 
+
 <h2>Tech Stack</h2>
 
 <table width="100">
