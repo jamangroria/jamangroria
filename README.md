@@ -47,6 +47,10 @@ You can click the Preview link to take a look at your changes.
      <td align='center'>
         <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
     </td>
+
+ <td align='center'>
+        <img src="https://www.linkpicture.com/q/chat-gpt_1.jpg">
+    </td>
 </tr>
  
 
